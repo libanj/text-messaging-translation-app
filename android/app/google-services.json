@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "934316491250",
+    "firebase_url": "https://text-messaging-app.firebaseio.com",
+    "project_id": "text-messaging-app",
+    "storage_bucket": "text-messaging-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:934316491250:android:2f98320bfad46d4d652b6b",
+        "android_client_info": {
+          "package_name": "com.example.text_messaging_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "934316491250-f775iu3lqs3or2js033u64v7v28gg0nj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.text_messaging_app",
+            "certificate_hash": "afc8a895fd929441ac6952e269c4a05cde4f1f0f"
+          }
+        },
+        {
+          "client_id": "934316491250-1h8e3ss1ah64l1jjjpkpe4gc1c79da64.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyATzmBIy2aVmaWx7_HcaRBbsJoYLvSG26A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "934316491250-1h8e3ss1ah64l1jjjpkpe4gc1c79da64.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
